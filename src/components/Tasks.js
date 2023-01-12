@@ -2,8 +2,8 @@ import Task from './Task'
 const Tasks = ({ tasks, onDelete, onToggle}) => {
   return (
     <>
-      {tasks.map((task) => (
-        <Task key={task.id} task = {task} 
+      {tasks.map((task, index) => (
+        <Task key={index} task = {task} 
         onDelete = {onDelete}
         onToggle = {onToggle}/>
         // ^^passing each task as a prop, the map array method loops through them and we pass each task as a prop with a unique id
