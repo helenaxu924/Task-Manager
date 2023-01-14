@@ -4,9 +4,9 @@ Task manager application using React, Fetch API, and JSON servers. Implemented t
 
 ## Demo 
 
-Adding tasks and their details: ![] (https://github.com/helenaxu924/Task-Manager/blob/main/task-manager-add-tasks.gif)
+Adding tasks and their details: ![] (task-manager-add-tasks.gif)
 
-Deleting tasks, toggling importance by double click, and navigating to instruction and about pages: ![] (https://github.com/helenaxu924/Task-Manager/blob/main/task-manager.gif)
+Deleting tasks, toggling importance by double click, and navigating to instruction and about pages: ![] (task-manager.gif)
 
 # Getting Started with Create React App
 
