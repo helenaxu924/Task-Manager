@@ -1,8 +1,8 @@
-## React Task Manager 
+# React Task Manager 
 
-Developed a task manager application using React, Fetch API, nd JSON servers. Set up CI/CD pipeline for auto deploying code from Github to both back-end and front-end and hosted using Render: [Try the demo] (https://task-manager-frontend-b8i8.onrender.com/)
+Task manager application using React, Fetch API, and JSON servers. Hosted using Render: [Try me](https://task-manager-frontend-b8i8.onrender.com/). 
 
-
+## Demo 
 
 
 # Getting Started with Create React App
