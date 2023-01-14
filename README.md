@@ -1,6 +1,8 @@
 # React Task Manager 
 
-Task manager application using React, Fetch API, and JSON servers. Implemented tools such as JSX, components, props, states, hooks, routing, and set up a CI/CD pipeline to auto deploy code. Hosted using Render: [Try it yourself!](https://task-manager-frontend-b8i8.onrender.com/). 
+Task manager application using React, Fetch API, and JSON servers. Implemented tools such as JSX, components, props, states, hooks, routing, and set up a CI/CD pipeline to auto deploy code. Hosted using Render: [Try it yourself!](https://task-manager-frontend-b8i8.onrender.com/)
+
+[Learn more about Render](https://render.com/)
 
 ## Demo 
 
