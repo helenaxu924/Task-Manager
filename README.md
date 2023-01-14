@@ -1,3 +1,17 @@
+# React Task Manager 
+
+Task manager application using React, Fetch API, and JSON servers. Implemented tools such as JSX, components, props, states, hooks, routing, and set up a CI/CD pipeline to auto deploy code. Hosted using Render: [Try it yourself!](https://task-manager-frontend-b8i8.onrender.com/)
+
+[Learn more about Render](https://render.com/)
+
+## Demo 
+
+Adding tasks and their details:  
+<img src="task-manager.gif" width="550" height="650"/>
+
+Deleting tasks, toggling importance by double click, and navigating to instruction and about pages: 
+<img src="task-manager.gif" width="550" height="750"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
