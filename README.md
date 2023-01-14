@@ -4,9 +4,11 @@ Task manager application using React, Fetch API, and JSON servers. Implemented t
 
 ## Demo 
 
-Adding tasks and their details:  <img src="task-manager.gif" width="450" height="550"/>
+Adding tasks and their details:  
+<img src="task-manager.gif" width="450" height="550"/>
 
-Deleting tasks, toggling importance by double click, and navigating to instruction and about pages: <img src="task-manager.gif" width="450" height="650"/>
+Deleting tasks, toggling importance by double click, and navigating to instruction and about pages: 
+<img src="task-manager.gif" width="450" height="650"/>
 
 # Getting Started with Create React App
 
